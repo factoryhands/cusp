@@ -1,5 +1,7 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/brown2rl/cusp-fyi)
 
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)]
+
 ## README
 
 This README would normally document whatever steps are necessary to get the
