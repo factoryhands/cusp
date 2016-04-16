@@ -1,3 +1,5 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/brown2rl/cusp-fyi)
+
 == README
 
 This README would normally document whatever steps are necessary to get the
