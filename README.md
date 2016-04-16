@@ -1,6 +1,6 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/brown2rl/cusp-fyi)
 
-[GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)](http://github.com/brown2rl/cusp)
 
 ## README
 
