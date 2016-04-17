@@ -29,6 +29,7 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-digitalocean'
 gem 'omniauth-facebook'
+gem 'omniauth-twitter'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
@@ -54,4 +55,10 @@ group :development do
   # Real Favicon
   gem 'rails_real_favicon'
 end
+
+group :development do
+  gem "better_errors"
+end
+
+gem "binding_of_caller"
 
