@@ -1,0 +1,9 @@
+LOG:  database system was shut down at 2016-04-12 21:46:50 EDT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  role "cusp" does not exist
+FATAL:  database "cusp_development" does not exist
+FATAL:  database "cusp_development" does not exist
+FATAL:  database "cusp_development" does not exist
+FATAL:  database "cusp_development" does not exist
