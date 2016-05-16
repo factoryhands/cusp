@@ -4,6 +4,95 @@
    Author's custom styles
    ========================================================================== */
 
+/* INDEX.HTML CSS */
+
+.navbar-brand>img {
+    height: 33px;
+}
+
+.navbar-inverse {
+    background-color: #FFF;
+    border-color: #FFF;
+    background-image: none;
+    height: 60px;
+}
+
+/*@media screen and (min-width: 768px)*/
+.jumbotron {
+    background-image: url("confetti.svg");
+    background-color: #fff;
+    margin: 0px;
+}
+
+.jumbotron-special {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  margin: 0px;
+}
+.jumbotron-special h1,
+.jumbotron-special .h1 {
+  color: inherit;
+}
+.jumbotron-special p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
+.jumbotron-special > hr {
+  border-top-color: #d5d5d5;
+}
+.container .jumbotron-special,
+.container-fluid .jumbotron-special {
+  border-radius: 6px;
+}
+.jumbotron-special .container {
+  max-width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .jumbotron-special {
+    padding: 48px 0;
+  }
+  .container .jumbotron-special,
+  .container-fluid .jumbotron-special {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .jumbotron-special h1,
+  .jumbotron-special .h1 {
+    font-size: 63px;
+  }
+}
+
+/*BUTTONS*/
+
+.btn-lg, .btn-group-lg>.btn {
+    padding: 8px 29px;
+    font-size: 16px;
+    line-height: 1.33;
+    border-radius: 0PX;
+}
+
+.btn-primary {
+    color: #192150;
+    background-color: #78eaea;
+    border-style: none;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #f4f928;
+    border-style: none;
+}
+
+/*HR*/
+
+.page-divider hr {
+    border-top: 11px solid #333;
+    margin: 0px;
+}
+
 
 
 
